@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tinners greivances, or, A true narrative shewing the reasons of the continual fall of the price of tin and likewise the many hardships the tinners have a long time laboured under : together with their present deplorable condition / by an adventuring tinner.</title>
+            <author>Tresilian, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63132</idno>
+            <idno type="STC">Wing T2127</idno>
+            <idno type="STC">ESTC R10566</idno>
+            <idno type="EEBO-CITATION">13292783</idno>
+            <idno type="OCLC">ocm 13292783</idno>
+            <idno type="VID">98856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 440:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tinners greivances, or, A true narrative shewing the reasons of the continual fall of the price of tin and likewise the many hardships the tinners have a long time laboured under : together with their present deplorable condition / by an adventuring tinner.</title>
+                  <author>Tresilian, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Tho. Tresilian.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"The humble petition of the whole body of tinners, within the counties of Cornwall and Devon": p. [4].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tin industry --  England.</term>
+               <term>Tin miners --  England --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98856:1"/>
+            <pb facs="tcp:98856:1"/>
+            <p>THE Tinners Greivances; OR A TRUE NARRATIVE SHEWING The REASONS of The Continual Fall of the Price of TIN: AND LIKEWISE <hi>The many Hardſhips the</hi> Tinners <hi>have a long Time Laboured under.</hi>
+            </p>
+            <p>Together with their preſent Deplorable Condition.</p>
+            <p>
+               <hi>By an Adventuring Tinner.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Ad Reges Poteſtas omnium pertinet:</l>
+                  <l>Ad Singulos Proprietas. <bibl>Seneca.</bibl>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, <hi>Anno Domini</hi> 1697.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:98856:2"/>
+            <pb facs="tcp:98856:2"/>
+            <head>The PREFACE, <hi>To the whole Body of</hi> TINNERS.</head>
+            <argument>
+               <list>
+                  <item>I. The Lords of the Soil and Bounders of Tin Grounds.</item>
+                  <item>II. The Adventuring Tinners.</item>
+                  <item>III. The Spalliards or Mine Workers.</item>
+               </list>
+            </argument>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>LOng Experience hath taught us, That to lie in the Ditch with only Crying, <hi>God help!</hi> is not the way to redreſs our Greivan<g ref="char:EOLhyphen"/>ces: And I doubt not but you will Joyn with me in opinion, That for the more Reguler Exhibiting our Complaints, Three things cheifly (with all Caution) ought to be premis'd.</p>
+            <p n="1">
+               <hi>I.</hi> That we wander not out of our Accuſtom'd Road: Leaſt we thereby give our Enemies Occaſion, and ground to call all our Liberties, and Pri<g ref="char:EOLhyphen"/>vileges in queſtion, which we and our Predeceſſors have enjoy'd for ſo ma<g ref="char:EOLhyphen"/>ny Ages:</p>
+            <p>Therefore (with all ſubmiſſion) Leave it to your ſerious Conſiderations, how, and whom to Petition for Releif in our preſent Caſe.</p>
+            <p n="2">
+               <hi>II.</hi> That it is no leſs neceſſary, The univerſal Aſſent of the whole Bo<g ref="char:EOLhyphen"/>dy of Tinners may Concurr in this undertaking:</p>
+            <p>Leaſt it be Objected: That it was promoted only by the <hi>Precipitate Act</hi> of a few, who underſtood not his Majeſties, and the Tinners Intereſts: And thereby ſome ſpecious pretenſes may be form'd to diſſent: and render all our endeavours Ineffectual.</p>
+            <p n="3">
+               <hi>III.</hi> And Laſtly, That the Spalliards or Mineworkers of every Tin Pariſh do Elect any Number (not Exceeding four) of the moſt Intelli<g ref="char:EOLhyphen"/>gent in Tin affairs of their ſaid pariſh (whom they may truſt, and Au<g ref="char:EOLhyphen"/>thorize) to Tranſact any thing (Relating to this matter) on their behalfs:</p>
+            <p>Leaſt by the Appearance of ſo vaſt numbers, they hinder the proceedings: and render themſelves alſo Obnoxious to the Government.</p>
+            <p>Now the moſt Expedient Method (that I could think of) to proceed in this matter Accordingly, is:</p>
+            <p>That the Repreſentatives (ſo Elected) and ſuch other Gentlemen to whom I ſhall preſent theſe following greivances (either themſelves or Agents) whom I hereby requeſt to Communicate the ſame to ſuch others, whom they know Concern'd, (who may poſſibly miſs my knowledge or Con<g ref="char:EOLhyphen"/>veniences of waiting on) would firſt meet in their Reſpective Coynage Towns, the Second day of the next enſuing Coynage, there to Conſider of, and Appoint a general <hi>Convention</hi> of ſuch a Competent Number (as they
+<pb facs="tcp:98856:3"/>
+may think needful) to aſſiſt in this Enterpriſe, where due meaſures may be taken (with all Caution and deliberation) for Releif of the preſent ſuf<g ref="char:EOLhyphen"/>ferers.</p>
+            <p>Who may then and there be pleas'd to Add or omit any thing in the Following Narrative (tho' all true in fact) as they in their better Judg<g ref="char:EOLhyphen"/>ments may think moſt material to the purpoſe.</p>
+            <p>I have likewiſe preſum'd to preſent you the form of a Petition to the King, which with the reſt I humbly refer to your Correction:</p>
+            <p>Hoping It may meet with your favourable Cenſure, being (I muſt Confeſs) firſt prompted hereunto by our worthy and good Conntryman Mr. <hi>John Praed,</hi> tho' I have ever been inclin'd (and now taught by my own ſufferings and oppreſſions) to Sympathize with, and Comiſerate my afflicted Neighbours: And wherein I have err'd, do Confide and depend That your goodneſs will Conſtrue It (as really it is) <hi>Error Amoris, non Amor Erroris,</hi> An Error of Love, and not a Love of Error, which will farther engage my weak endeavours to ſerve you to my utmoſt power, who am</p>
+            <closer>
+               <signed>Your Fellow Sufferer and Ready Servant <hi>Tho. Treſilian.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <head>To the King's moſt Excellent Majeſty. The Humble Petition of the whole Body of <hi>Tinners,</hi> within the Counties of <hi>Cornwall</hi> and <hi>Devon.</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THAT for many Years laſt paſt, your ſaid Petitioners have labour'd under great difficulties; and many Inconveniencies, in Adventuring for <hi>Tin,</hi> even to the waſting of our Eſtates, and ruine of our Families, who have been diſtinguiſh'd from others of your Majeſties Subjects only by our Suffe<g ref="char:EOLhyphen"/>rings: as more at large Appeareth in a Narrative hereunto Annex'd (tho' we have alwaies practis'd (under all Governments) That Paſſive Obedi<g ref="char:EOLhyphen"/>ence, which others have only talk'd of.</p>
+            <p>Therefore humbly pray; That your Majeſty would be graciouſly pleas'd to grant us the like freedom with other of your Majeſties Loyal Subjects, in the diſpoſal of our goods; And that we may ſtand on an equal foot with all other Tradeſmen, which will enable us to Carry on our deſerted Adventures with Alacrity; To the Advance<g ref="char:EOLhyphen"/>ment of your Majeſties Revenue; and the Support of our Languiſh<g ref="char:EOLhyphen"/>ing Families: And your Petitioners ſhall ever pray (as in duty bound) for your Majeſties long and happy Reign over us.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98856:3"/>
+            <head>THE TINNERS GREIVANCES.</head>
+            <p>OF all the Products this Iſland affords, there's no Commodity more Staple, Laſting, and Advanta<g ref="char:EOLhyphen"/>geous than Tin, (Peculiar only to the two Coun<g ref="char:EOLhyphen"/>ties of <hi>Cornwall,</hi> and <hi>Devon.)</hi> nor among the many Temptations that moſt Kings, and Princes are Expoſed unto, This is none of the leaſt, to Receive falſe Repreſentations of things on the Account of Profit and Advantage from Perſons, who (for the moſt part make uſe of ſuch pretences to promote ſome low, or mean In<g ref="char:EOLhyphen"/>tereſt of their own, without Conſidering the whole, or the Circumſtances which might Compleat the truth of ſuch Relations, by means of which Suggeſtions, moſt of the Kings of <hi>England</hi> who (being ſenſible of the Revenue ac<g ref="char:EOLhyphen"/>crewing to them by the labour of the Tinners, and being willing to Encourage their Endeavours) have been alwaies ſo miſled, That the only thing preſcrib'd to Advantage them, and advance the ſaid Revenue, hath alwaies prov'd deſtructive to the one, and the greateſt Oppreſſion Imagi<g ref="char:EOLhyphen"/>nable to the other; who ſeem of all Men to be born Salves, And what would moſt Evidently appear prejudicial, to any other Native Subjects, or Tradeſmen in <hi>England,</hi> muſt be thought none to them, (but being as it were) not only Curs'd to harder labour than ever the <hi>Gibeonites</hi> Underwent, It muſt be Entail'd on them too, to poſterity, without a Competent Allowance of either Food, or Rayment.</p>
+            <p>Now the Endeavours of this Paper ſhall be to Unde<g ref="char:EOLhyphen"/>ceive, and rightly to inform all ſuch, who have look'd into this Affair through wrong and falſe Opticks; by ſhewing them the true Reaſons;</p>
+            <p>Firſt of the Continual fall of the price of Tin.</p>
+            <p>
+               <pb n="2" facs="tcp:98856:4"/>
+Secondly the many Inconveniencies from time to time Impoſed on the Tinners, to their great diſcouragements; who merrit much better.</p>
+            <p>And laſtly, the Deplorable Condition they are now Re<g ref="char:EOLhyphen"/>duc'd unto.</p>
+            <p>
+               <hi>Firſt</hi> then I ſhall tell you (negatively) That the fall of the price of Tin proceeds not from the great Quanti<g ref="char:EOLhyphen"/>ties made, as ſome vainly Imagin, (or rather pretend) which will Evidently appear by Comparing the Reign of King <hi>Charles</hi> the firſt (of Bleſſed memory) with ſucceed<g ref="char:EOLhyphen"/>ing Times: for in his ſaid Reign, the Quantities of Tin were very Inconſiderable, Comparatively, with the ſucceed<g ref="char:EOLhyphen"/>ing days of the Common wealth, and <hi>Cromwell;</hi> as may be moſt demonſtrable.</p>
+            <p>Firſt if it be Conſider'd, That none others were Em<g ref="char:EOLhyphen"/>ploy'd on the ſearch of that Commodity at that time: but ſuch who were wholly bred to that Employ. And Secondly, by the great encreaſe of Blowing or Melting Houſes that have been Erected ſince that time. And yet notwithſtanding the ſmall quantities then made, the Price was but forty Odd Shillings, when under the Preempti<g ref="char:EOLhyphen"/>on of the laſt Farmers: But as ſoon as the Tinners were Releas'd from that Bondage, the price did preſently riſe to three Pounds, The Advancement of which encouraged moſt ſort of Tradeſmen to leave their own Callings, and put themſelves to digg, and ſearch for Tin, and yet the more the Tin, the better the Price ſtill grew. The num<g ref="char:EOLhyphen"/>ber of hands ſtill encreaſing the Quantities Proportiona<g ref="char:EOLhyphen"/>bly.</p>
+            <p>Then it was that Old Works that were turn'd Idle ma<g ref="char:EOLhyphen"/>ny years before (which could not (by reaſon of the great depths, and other Charges) pay the Wages perhaps of a hundred men, were now wrought again with Advantage; and employed three or fower times ſo many.</p>
+            <p>
+               <hi>Secondly,</hi> I muſt likewiſe tell you, that It proceeds not from the Cheapneſs of the Commodity beyond the Seas neither, <hi>(France</hi> only Excepted) the Reaſon I ſhall tell you anon) for I have been Inform'd by a Perſon of great worth and Honour, That the <hi>Turkie</hi> Company made of a hundred of Tin ſold at <hi>Turkie</hi> Eighty Dollers, and by the return
+<pb n="3" facs="tcp:98856:4"/>
+of Commodities it yielded Twenty four Pounds the hun<g ref="char:EOLhyphen"/>dred Sterling: And tho' this may not be Common, It Suffi<g ref="char:EOLhyphen"/>ciently Shews the Neceſſity they lie under for that Com<g ref="char:EOLhyphen"/>modity, who would give that Price, rather than be with<g ref="char:EOLhyphen"/>out it: But I have often heard the Old Mr. <hi>Seyntaubyn</hi> (of our County) declare, that he made <hi>17l.</hi> or <hi>18l.</hi> Ster<g ref="char:EOLhyphen"/>ling Commonly, of every hundred of Tin he ſent into thoſe parts; who frequently Adventur'd his own Tin.</p>
+            <p>(Theſe things being premiſed) It reſts now to declare, what the Reaſons of the fall of the price may be: And theſe I find to be chiefly three.</p>
+            <p>The firſt is the Conſtitution of the Tinners:</p>
+            <p>In having but two free Markets a year to diſpoſe of his Goods, which, with it's Ill Conſequences, are the great Grievances the Tinners have a long time labour'd under: and I doubt not, but plainly to demonſtrate, that it is as deſtructive to his Majeſties Revenue; as fatal to the Tin<g ref="char:EOLhyphen"/>ners to be thus Confin'd, which will be moſt Obvious to the meaneſt Capacity, If they did but Suppoſe, Any other Tradeſmen in <hi>England</hi> were under the like prohibition, As for Inſtance, If the Pewterers, Cloathiers, Tanners, Shooe<g ref="char:EOLhyphen"/>makers, or, Husbandmen themſelves were confin'd to two, or four Times a year only to ſell their Goods: Conſider, I pray, how Prodigious would the Quantities then appear? How ſoon would the Emptor take Notice of the Indigen<g ref="char:EOLhyphen"/>cy of the Poor Mechanicks? and work on their Neceſſities, who have weekly Occaſion for what they have earn'd, and for want thereof, muſt buy all their Proviſions, and Cloaths, on Truſt, and Credit; to the utter Ruin of themſelves, Fa<g ref="char:EOLhyphen"/>milies, and Commodity it ſelf.</p>
+            <p>Beſides Conſider farther, I pray) againſt which there can be no Riſing up: And that is from ten or twelve years Experience: And you know, <hi>Non est diſputandum degustu,</hi> There's no diſputing againſt one's Sence, and Common Ex<g ref="char:EOLhyphen"/>perience) that the Tin never did riſe to a value: but when the Tinners were left at liberty to ſell their Tin; as ſoon as melted, and Cold, and had the Hammer in the Houſe; at which Time the price of Tin alwaies advanc'd, till it came from three Pounds, to ſix Pounds odd money a hundred.</p>
+            <p>
+               <pb n="4" facs="tcp:98856:5"/>
+But as ſoon as the Old Conſtitution return'd, and the Tinners again Confin'd to two free Markets, as in King <hi>Charles</hi> the Second, and in King <hi>James</hi>'s Reigns, The Price ſtill abated, till it came again to forty odd Shillings a hun<g ref="char:EOLhyphen"/>dred, which hath diſcourag'd moſt men (who are not under an Obligation) to Adventure, and ſearch for Tin, And yet the ſmall quantities of it at home, nor the high Eſti<g ref="char:EOLhyphen"/>mate of it abroad can prevail with the Merchant to Advance the Price, or ever will (I fear) till there be an utter deſer<g ref="char:EOLhyphen"/>tion of that Employment, and the Pewterer and other Tradeſmen who have a dependency on that Commodity, be turn'd Idle for want of that Mettal, To work, and the whole Revenue ariſing to his Majeſty thereby be likewiſe loſt.</p>
+            <p>But while the Tinners were at liberty, and the price of Tin was up (as I told you) It did not only perſwade more La<g ref="char:EOLhyphen"/>bourers about that Concern, but our Merchants then (and not till then) became Adventuring Tinners; on which de<g ref="char:EOLhyphen"/>pends the Second Reaſon, I promis'd to Shew you, for the fall of the price which is <hi>viz.</hi>
+            </p>
+            <p>II. The Running, and Embezling of the King's Duties, which Enables, and Capacitates ſuch Merchants, to under<g ref="char:EOLhyphen"/>ſell all others who pay it.</p>
+            <p>Heretofore, the <hi>Londoners,</hi> and others ſent, and kept their Factors in <hi>Cornwall,</hi> whoſe ſole buſineſs it was to Execute their Merchants Orders, Inſtead of which, they now ſend their Commiſſions to our Merchants, who (as I told you) are not only become Adventuring Tinners: But alſo are In<g ref="char:EOLhyphen"/>tereſſed in moſt of the Blowing Houſes, Factors, and Mer<g ref="char:EOLhyphen"/>chants too (as well as their Employers) who are the on<g ref="char:EOLhyphen"/>ly perſons that beat down the Price, both at home, and a<g ref="char:EOLhyphen"/>broad (I mean in all our Neighbouring Countries, where they have a free Trade: but Eſpecially in <hi>France,</hi> by under<g ref="char:EOLhyphen"/>ſelling the <hi>Londoners</hi> their Benefactors, which I ſhall demon<g ref="char:EOLhyphen"/>ſtrate; and the Caſe is truly and plainly thus.</p>
+            <p>Suppoſe the <hi>Londoner</hi> writes his Factor in the Country, to buy him Twenty Tunn of Tin this Coynage, at the Price Current. In all probability before the Coynage comes, he hath Engroſs'd Thirty Tunns in his hands, by furniſh<g ref="char:EOLhyphen"/>ing the Indigent Tinners before hand, with money, at one
+<pb n="5" facs="tcp:98856:5"/>
+or two Shillings a hundred, under the Price Currant, which is Common; as it was well Obſerv'd by Judge <hi>Doderige</hi> in his Hiſtory of the Antient, and Moddern Eſtate of the Duke of <hi>Cornwall</hi> Dedicated to King <hi>James</hi> the Firſt in 1630. <hi>Pa.</hi> 95. <hi>viz.</hi> (ſaith he) <hi>The Spalliards, or Mineworkers, who in Reſpect of their Poor Eſtate, are Eaten out by the hard and Uſurious Contracts for Tin, which they are driven to make with the Mer<g ref="char:EOLhyphen"/>chant, or Regrator: for thoſe poor Labourers being not able to ſuſtain themſelves and Families, until the Time of Coynage, and Marts of Tin ſhall come, (which are half yearly) they are by Neceſſity Compell'd for a ſmall Sum of money, to enter into Bonds with the ſaid Regrators of Tin, to deliver them at the next enſuing Coinage Tin, in value much more, then the mo<g ref="char:EOLhyphen"/>ney they had Receiv'd from them)</hi> who ſtill practiſe the ſame thing to this day; and by their long and continued Expe<g ref="char:EOLhyphen"/>rience, have Enlarg'd their Power ſo far, as to Subject the more Subſtantial Adventurers now, as they did the Poor Spalliards heretofore, by which means both their Conditions are now become moſt greivous and Deplorable; It being hereby wholly in the Merchants Breaſts, to make the Price what they pleaſe: (But to return from whence I have de<g ref="char:EOLhyphen"/>greſſed) The <hi>Corniſh</hi> Factor ſends away the 20 Tuns to <hi>London,</hi> the other 10 Tuns he keeps for his own uſe, and ſends it (perhaps) for <hi>France,</hi> where in all Probability, it ar<g ref="char:EOLhyphen"/>rives long before the other can poſſibly reach <hi>London,</hi> who hath no Occaſion to ſtay for the Coinage, which (you ſee) comes not only Cheaper to him than to the <hi>Londoners:</hi> but the Fraight much Leſs too, It being but croſs the Channel: and the Kings Duties ſeldom, or never paid by them: for the Tin being (as it were) Compris'd all in their own hands, as Tinners, Blowers, Factors, and Merchants, have all the liberty and Freedom Imaginable, to do what they pleaſe with it, who (Inſtead of Carrying it to Coinage Towns,) cannot miſs Opportunities to Carry it in a Night ſomewhere by the Sea Coaſt, where their Ship (being once Clear'd of the Harbour) may return the Night after, and with their Boat take it on Board; There being none but his own Servants Employ'd about it from firſt to laſt: Nor no peice, nor parcel found wanting at the Coinage, there being no Attendance at the Blowing Houſes: nor any Officer there to take an Account of the ſame.</p>
+            <p>
+               <pb n="6" facs="tcp:98856:6"/>
+Now when the <hi>Londoner</hi> hath Occaſion to ſend his Tin to <hi>France,</hi> for which he hath paid the uttermoſt penny, be<g ref="char:EOLhyphen"/>ſides Fraight to <hi>London,</hi> Commiſſion Money to his Factor: and the Kings duties, (which he can hardly Run) He finds the Market there already ſupply'd Cheaper, then he can poſſibly afford it, which cauſes him to lie there oftentimes on Charge, and demurrage, to his great Amazment and diſſatiſ<g ref="char:EOLhyphen"/>faction, not knowing how it comes to paſs he is thus un<g ref="char:EOLhyphen"/>derſold and abuſed.</p>
+            <p>The Third and laſt Reaſon (which with the former, are both the true effects, and Natural Ofsprings of the firſt, the Common Parent, of all the Miſcheifs, and Inconve<g ref="char:EOLhyphen"/>niencies that have ſo long Attended the Tinners) Is the Opportunities given; and Advantages taken by the Mer<g ref="char:EOLhyphen"/>chants, in meeting every Coinage where they Contrive, and Reſolve what Price to give.</p>
+            <p>The <hi>Londoner,</hi> after his bad Market, writes again to his Factor in <hi>Cornwal,</hi> and limits him now perhaps to leſs than he gave the laſt Coinage, which ſtill proves the ſame, and would, did they buy it for Twenty Shillings the hundred: Theſe freſh Orders are Communicated to the reſt of the Pro<g ref="char:EOLhyphen"/>feſſion, who all meet Quarterly (as I told you) and lay their heads together to Combine and make the price, who get as much by their ſaid uſurous Contracts; as they do by their Commiſſions, who have all gotten to themſelves great Eſtates, by theſe Practices, to the great abuſe of the <hi>Londoners,</hi> The defrauding his Majeſty of his Revenue; and the utter Ruin of the poor Tinners, by undervaluing a Commodity of ſuch worth, and Excellency, all over <hi>Europe.</hi>
+            </p>
+            <p>
+               <hi>Ob.</hi> But here it may be demanded is there not an abſo<g ref="char:EOLhyphen"/>lute neceſſity for a Say Maſter to Tare the Tin and prevent the debaſing of ſo good a Commodity: And how can that be done without bringing it to the Coinage Towns as uſual.</p>
+            <p>
+               <hi>An.</hi> To this it may be anſwer'd, That it is as much the Tinners Intereſt as the Merchants (to whom it is Ordina<g ref="char:EOLhyphen"/>rily warranted by them) to preſerve that Mettal pure, and free from being Adulterated, which may be done at the Blow<g ref="char:EOLhyphen"/>ing Houſes with far leſs Expence, and greater Conveniency for both, than at the Coinage Towns: for whereas the beſt Say Maſter hath no Infallible Rule to Judge, how much droſs
+<pb n="7" facs="tcp:98856:6"/>
+may be Contain'd in one Block, by which means he often diſtaſtes and abuſes, either the Merchant, or Tinners; ſo here they will meet with a Cheaper, and more Infallible Remedy to Reconcile them both: for there may be in eve<g ref="char:EOLhyphen"/>ry Blowing Houſe (as formerly there hath been) a Melting Kettle, to Remelt all ſuch Tin as the Say Maſter Judges not Merchantable: And then it will be paſt all diſpute to the Satisfaction of both.</p>
+            <p>The Adventuring Tinners are now ſo Impoveriſhed, as they can Employ no more men then will only preſerve their Rights in ſuch works, wherein (perhaps) they have Expended the greateſt part of their Eſtates, to Cut Oddits, or Aqueducts to unwater the ſame: And thoſe they do em<g ref="char:EOLhyphen"/>ploy, are only for Three or Six Months at moſt, in Summer.</p>
+            <p>The poor Miners wages being fallen from thirty, to fourteen, or fifteen Shillings a month, which is all he hath to maintain himſelf a Wife, and five, or ſix Children (per<g ref="char:EOLhyphen"/>haps) all the year: The Wife, nor Girls getting very little, or nothing, (Except in weeding Seaſon or Harveſt) there being no Clothing Trade, or any other to Employ them in that part of the County; ſo that they may be divided into two ſorts.</p>
+            <p>The firſt as ſoon as Employments ſail them, and the works are Shut up, do immediately take up the Trade of Begging.</p>
+            <p>The latter who are aſham'd to beg, lie under the Temp<g ref="char:EOLhyphen"/>tation of Stealing, or even almoſt Starving: for I have Ordi<g ref="char:EOLhyphen"/>narily ſeen ſuch ſave Sheep, and Bullocks that have dyed in the Feilds by Accident, tho poor, and Lean, or at leaſt ſo much of them as they could make uſe of while freſh, their Subſtance, nor Credit now, being able to purchaſe ſo much Salt, as would be neceſſary to preſerve it longer; And I am perſwaded a great many Families in the Neigh<g ref="char:EOLhyphen"/>bourhood I live, do not make uſe of any other Fleſh at their own Tables four times in the year, Their ordinary food in winter being Potatoes and Barly-bread (as courſe as Horſe-bread) with gruel thickn'd oftner with barley meal, than oat-meal. And in Summer the ſame ſort of bread and milk only; and could they have their fill of this they would ſeem very well pleas'd.</p>
+            <p>
+               <pb n="8" facs="tcp:98856:7"/>
+And I have farther obſerved, in twenty or thirty years laſt paſt (by reaſon of the cold and hunger their youth ſuffer, ha<g ref="char:EOLhyphen"/>ving not rags enough to cover them) Men are ſo reduc'd, from well grown Perſons to be now (Comparatively) meer Pig<g ref="char:EOLhyphen"/>mies in Stature, and ſtrength, which is lamentable to behold.</p>
+            <p>Neither can I omit diſcovering an other Calamity that lies hard on the Tinners, which proceeds from their Stannery Courts (a thing deſign'd and intended by moſt the Kings of <hi>England,</hi> for their eaſe, and Advantage: as may be ſeen by the Imunities, and priviledges granted them by their Charters, which is now become none of the leaſt of the burdens they labour under) In which ſaid Courts they Obſerve neither bounds, nor limits to reſtrain the avaritious appetites of their Attorneys, who are now grown to that paſs, as to extend a Suit by delatory practices (wherein they contrive one with the other) that the charge of a Tryal in that Court, ordinarily amounts unto more then will obtain a decree in Chancery.</p>
+            <p>And if they appeal in equity; the Warrants, Orders, and delays, before a definitive Sentence can be obtain'd, are gene<g ref="char:EOLhyphen"/>rally ſo chargeable, that it were better for them to loſe their rights, then contend for it.</p>
+            <p>For Remedy whereof, it is heartily wiſhed, and humbly propoſed: That the Coſts of all Tryals; not only in the Stan<g ref="char:EOLhyphen"/>naries, but in all other inferiour Courts; might be aſcertain'd, by an Act of Parliament not to exceed ſuch a Summ, as they in their moſt ſage Judgments; might think Convenient: which would be, a means to expedite the execution of Ju<g ref="char:EOLhyphen"/>ſtice, without delay: and not only redreſs the preſent grei<g ref="char:EOLhyphen"/>vances of the Tinners: But be alſo an unſpeakable caſe to that whole County in general.</p>
+            <p>Their privileges likewiſe granted them, in liew of their Coinage duties, of four ſhillings a hundred, were (amongſt others) to be free of all Fairs, and markets, from any Toll, tax, or ſuch like impoſſitions; which now they are denied, and deprived of: And then let it be conſider'd, how unequal, and unjuſt it is to continue the poor Tinners ſtill to their bur<g ref="char:EOLhyphen"/>thens, without their privileges, And to the payment of that, for which they do not enjoy the Conſideration.</p>
+            <p>And though ſome men were pleas'd to repreſent the Tin<g ref="char:EOLhyphen"/>ners of <hi>Cornwal,</hi> as dangerous, I ſhall make bold to vindicate
+<pb n="9" facs="tcp:98856:7"/>
+them ſo far, as not to deſerve ſuch Treatment, who have ſuffi<g ref="char:EOLhyphen"/>ciently approv'd themſelves to be men of Reſolute Loyalty, as well as of undaunted Spirits, when back'd by a Legal Au<g ref="char:EOLhyphen"/>thority: and then only, who have alwaies practis'd that paſ<g ref="char:EOLhyphen"/>ſive Obedience (under all Governments) which others have only preach'd, and talk'd of: as may appear more at large, by a Letter of thanks ſent them, and the Gentlemen of that County by King <hi>Charles</hi> the Firſt, (of Bleſſed memory) from <hi>Sudley</hi> Caſtle, which tho' well known to moſt of that Coun<g ref="char:EOLhyphen"/>ty, yet for the Information of others, who may be ſtrangers thereunto, I have here tranſcribed, and is as follows.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Inhabitants of the County of <hi>Cornwal</hi> A Letter of Thanks from King <hi>Charles</hi> the Firſt (of Bleſſed memory) dated <hi>Sep.</hi> the <hi>10th. 1643.</hi> from <hi>Sudley</hi> Caſtle.</head>
+                  <opener>
+                     <signed>CAROLUS REX.</signed>
+                  </opener>
+                  <p>WE are ſo highly Senſible of the Extraordinary merits of our Coun<g ref="char:EOLhyphen"/>ty of <hi>Cornwal,</hi> of their Zeal for the defence of our Perſon, and the Juſt Rights of our Crown, in a time, when we could Contribute ſo little to our own Defence, or to their Aſſiſtance, In a time when not only no re<g ref="char:EOLhyphen"/>ward Appear'd: but great and probable dangers were threatned to Obedi<g ref="char:EOLhyphen"/>ence, and Loyalty: of their great, and Eminent Courage, and Patience, in their Indefatigable Proſecution of their great work, againſt ſo potent an Enemy, back'd with ſo ſtrong, rich, and Populous Citties, and ſo plentifully furniſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with Men, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rms, Money, and Ammunition, and Proviſions of all kinds: and of the Wonderful Succeſs, with which it hath pleaſed Almighty God (who with the loſs of ſome Eminent Perſons who ſhall never be forgot<g ref="char:EOLhyphen"/>ten by us to reward their Loyalty, and Patience) by many ſtrange Victories over their, and our Enemies, in deſpite of all humane Probabilities, and all Imaginable diſadvantages. That as we cannot but deſire to publiſh to all the world, and perpetuate to all times, the memory of their merits and of our Acceptance of the ſame: And to that end, we do hereby render our. Royal thanks to that our County in the moſt publick, and laſting manner we can deviſe, Commanding Copies hereof to be printed, and publiſh'd, and one of them to be read in every Church and Chappel therein; And to be kept for ever as a Record in the ſame. That as long as the Hiſtory of of thoſe times, and of this Nation ſhall Continue, The memory of how much that County hath meritted from us, and our Crown, may be derived with it to Poſterity.</p>
+                  <closer>
+                     <dateline>Given at our Camp at <hi>Sudley</hi> Caſtle, <date>the 10th. of. <hi>September 1643.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="10" facs="tcp:98856:8"/>
+            <p>Who (not knowing how to gratify ſuch ſignal Services better) granted to the Inhabitants of that County a free trade in all parts, where the <hi>Engliſh</hi> have any Commerce. And tho' they have been oppos'd by the Eaſt <hi>Indian</hi> and <hi>African</hi> Companies, yet I perſwade my ſelf they would be content to be reſtrain'd from Interrupting them in their trade, by Confining themſelves to Export the Products of their own County only, as Tin, Fiſh, and Wool Cloth: And I queſtion very much, whether the Mob, in any other part of the Kingdom, would have endur'd half their Sufferings with ſuch Submiſſive Patience.</p>
+            <p>And this I can boldly farther avouch for them, that in the whole County of <hi>Cornwal,</hi> I never met with one Labouring Tinner that was either Papiſt, or Popiſhly Inclin'd: But all Generally tho' Ruſtick, and Illiterate, have as great Averſi<g ref="char:EOLhyphen"/>ons to that perſwaſion as any proteſtant Divine in <hi>England:</hi> And, therefore do perſwade my ſelf, that Mr. <hi>Crosby</hi> his Pa<g ref="char:EOLhyphen"/>pers were written out Book, as well of them; as of ſome o<g ref="char:EOLhyphen"/>thers of that County.</p>
+            <p>Now I foreſee there are ſome People that may raiſe ſome Objections againſt the Tinners freedom, and Common privilege of other Subjects: and they in all likelihood may be either.</p>
+            <p>Firſt thoſe Merchants whoſe Practiſes I have detected.</p>
+            <p>Or Secondly, thoſe Attourneys who have prey'd on them ſo long, and have been ſure to go away with the profit of all ſuch matters, and Concerns, as happen to be Controverted among them.</p>
+            <p>Or Laſtly ſuch who reap particular Advantages by need<g ref="char:EOLhyphen"/>leſs Offices, out of the Coinage duties.</p>
+            <p>Therefore If any Objectors chance to appear, It will be neceſſary to enquire, what were the Motives that promp<g ref="char:EOLhyphen"/>ted them hereunto <hi>(viz.)</hi>
+            </p>
+            <p>Whether a private Intereſt, or a publick good: If the for<g ref="char:EOLhyphen"/>mer, and it be put into the Scale againſt a Common benefit, (I hope) it will appear ſo frivolous, as need not require much time to anſwer.</p>
+            <p>If the latter.</p>
+            <p>It muſt then neceſſarily relate, either to his Majeſty; or the Tinners.</p>
+            <p>If to his Majeſty.</p>
+            <p>It muſt be then touching his Prerogative, or his Revenue.</p>
+            <p>
+               <pb n="11" facs="tcp:98856:8"/>
+               <hi>Ob.</hi> If his Prerogative, the Objection then muſt be, That the Kings of <hi>England</hi> have Antiently had (by virtue of their Prerogative) a right of Preemption of all the Tin, before the Tinners had freedom to diſpoſe, or the Merchant to buy the ſame.</p>
+            <p>Therefore it muſt be brought Quarterly to the Coinage Towns in Order to his Acceptance, or Refuſal.</p>
+            <p>
+               <hi>An.</hi> For Anſwer (I ſay) That the Kings Prerogative, and Right of Preemption of the Tin is not here denied, or inten<g ref="char:EOLhyphen"/>ded to be ſo, Neither doth it follow, that the Tinners muſt therefore keep their Goods a whole Quarter of a year, and bring it to the Coinage Towns only for that purpoſe.</p>
+            <p>But firſt (I pray) Obſerve the very word <hi>Emption</hi> doth preſuppoſe, and Imply a Contract, and there is (you know) a Correlation between the Contractor, and Contractee: for the Law of Nations requires a voluntary and mutual Conſent both of the Buyer, and Seller, and therefore as the King can<g ref="char:EOLhyphen"/>not Impoſe a price on their Tin againſt the Tinners will, ſo neither, is he (on the other hand) oblig'd to bargain with every Individual Tinner, every Quarter of a year: for the Tinners being Incorporated by ſeveral Charters granted them by the Kings of <hi>England,</hi> have power to ſend their Repreſen<g ref="char:EOLhyphen"/>tatives (by the direction of the Lord Warden) to their Parli<g ref="char:EOLhyphen"/>ament or Convocation, who may be qualified, and have power to treat and bargain for all the Tin, when ever his Majeſty is pleas'd to ſignify, that it is his Pleaſure, and Intention ſo to do, or any other who have a mind to farm, it under him) whoſe Laws and Conſtitutions being then Promulg'd will be as binding on the whole Body of Tinners of that County, as if the ſame were Eſtabliſh'd by the General Parliament of the Realm.</p>
+            <p>And therefore in Caſe of ſuch a bargain, the Tinners will be ſtill Content to bring their Tin to the Coinage Towns, and Re<g ref="char:EOLhyphen"/>ceive their money Quarterly for it as Accuſtomed.</p>
+            <p>But here I cannot omit diſcovering another great peice of hardſhip, and Injuſtice done them, by the Mayors of the four Coinage Towns, who are now uſually ſuch Enemies to the Tinners, as I have already declared: Yet aſſume a Right to themſelves, of Nominating, and Choſing Members, or Convocators to ſerve in the Tinners Parlia<g ref="char:EOLhyphen"/>ment, (who are to make Laws, and Conſtitutions to bind the whole body of Tinners) without their Privity, or Approbation; only be<g ref="char:EOLhyphen"/>cauſe the Writs are directed to them (and the Tinners unhappineſs
+<pb n="12" facs="tcp:98856:9"/>
+have been ſuch, to have all their Records burn'd in the Time of the Late unhappy Civil Wars) which is as much, as if the Sherifs of Counties, ſhould take up the like freedom to Choſe Knights, and Burgeſſes to ſerve in the Parliaments of the Realm without the Con<g ref="char:EOLhyphen"/>ſent of the Freeholders, then which nothing can be more Arbitrary, or be nearer of Kin to <hi>French</hi> Slavery.</p>
+            <p>For Remedy whereof it is humbly Propos'd, That our Honourable Lord Warden, for the Time being, may for the future, direct his Writs (for the Choice of Convocators) to his Steward of the Stanneries, to Require the head Baylif of each Juriſdiction, to Summon at leaſt 40 or 50 of the moſt knowing, and Subſtantialeſt Tinners to be and Attend at the next Law Court, of which the firſt 25 (or a leſs number) that Appear may (Repreſenting the whole body of Tinners) Serve as the Grand Jury or Homage for that ſaid Stannery, who may Elect and nominate Convocators for the ſaid Juriſdiction: and preſent them under their hands to the ſaid Steward, in order to be return'd to our ſaid Lord Warden, as they have of late been by the four Mayors of the Stanneries Corporations.</p>
+            <p>If it Relates to his Majeſties Revenue, It muſt be then made appear, how it may be prejudicial thereunto: for (on the Contrary) it ſhall be ſo far from diminiſhing the ſame, as the Tinners will be Oblig'd to Aug<g ref="char:EOLhyphen"/>ment it Conſiderably.</p>
+            <p>As Firſt the Kings duties ſhall be paid Merchant weight, which is now at the Kings Beam Sixſcore and two.</p>
+            <p>Secondly all Embezling, or Running of the Kings dues ſhall then be prevented.</p>
+            <p>And Thirdly all the Conſultations and Contrivances of the Merchants to keep down the Price (which is the Cut-throat as well of the Kings Re<g ref="char:EOLhyphen"/>venue, as of the poor Tinners weal, being both Embarked in the ſame Bottom) will then likewiſe be hindered; If the Hammer were once again in the Blowing Houſes, where all the frauds are Committed, There being no Officer now that attend the ſame (as they ought) which are the Rea<g ref="char:EOLhyphen"/>ſons that this Commodity is ſo debas'd, both at home and abroad: but Eſpecially in <hi>France,</hi> where I have been Credibly Inform'd, that Tin hath been ſold there Cheaper then at <hi>London:</hi> for the ſaid <hi>Corniſh</hi> Factors find<g ref="char:EOLhyphen"/>ing (by Experience) that the Quick return makes the heavy Purſe, will ſurely abate of the Price, rather then lie there long on demurrage.</p>
+            <p>If it Relates to the Tinners, I ſhould gladly hear what might be offer'd more to their Advantage, or why a freedom to ſell their Goods at plea<g ref="char:EOLhyphen"/>ſure, ſhould prejudice their Intereſt more, then it doth any other Tradeſ<g ref="char:EOLhyphen"/>men in <hi>England.</hi>
+            </p>
+            <p>Now on the whole, it is moſt Obvious, and Apparent; that both his Majeſtics Intereſt, and the Tinners, are ſo Connex'd, and interwo<g ref="char:EOLhyphen"/>ven, as they muſt be Allow'd of to be Inſeperable: for whatever advances the Price of Tin, Encourages the more hands, which encreaſes the Quan<g ref="char:EOLhyphen"/>tities; and ſo the Kings Revenue by Conſequence.</p>
+            <p>And whatever Occaſions the diminiſhing or fall of the Price of Tin, diſcourages the Tinners, and abates the Quantities Proportionably: but more Eſpecially at this Time, when all Materials Employ'd on that Con<g ref="char:EOLhyphen"/>cern, are ſold at ſuch Exceſſive Rates, which Threatens, and Endangers the ſinking of the whole Revenue, by an utter deſertion of that Employ<g ref="char:EOLhyphen"/>ment. The like being already done in <hi>Devon.</hi> may be with much eaſe practiſed in <hi>Cornwal</hi> alſo.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98856:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
